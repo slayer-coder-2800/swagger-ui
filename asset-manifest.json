@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/swagger-ui/static/css/main.1a57c2aa.css",
+    "main.js": "/swagger-ui/static/js/main.6d10d1be.js",
+    "static/js/578.9f766e93.chunk.js": "/swagger-ui/static/js/578.9f766e93.chunk.js",
+    "static/js/168.6565453e.chunk.js": "/swagger-ui/static/js/168.6565453e.chunk.js",
+    "static/js/706.1a914753.chunk.js": "/swagger-ui/static/js/706.1a914753.chunk.js",
+    "static/js/917.4d04ad27.chunk.js": "/swagger-ui/static/js/917.4d04ad27.chunk.js",
+    "static/js/139.dea13b40.chunk.js": "/swagger-ui/static/js/139.dea13b40.chunk.js",
+    "static/js/315.591a2858.chunk.js": "/swagger-ui/static/js/315.591a2858.chunk.js",
+    "static/js/661.9cc0d0ac.chunk.js": "/swagger-ui/static/js/661.9cc0d0ac.chunk.js",
+    "static/js/537.9c13be6c.chunk.js": "/swagger-ui/static/js/537.9c13be6c.chunk.js",
+    "static/js/787.33803852.chunk.js": "/swagger-ui/static/js/787.33803852.chunk.js",
+    "static/media/fa-solid-900.ttf": "/swagger-ui/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/swagger-ui/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/swagger-ui/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/swagger-ui/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/swagger-ui/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/swagger-ui/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/swagger-ui/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/swagger-ui/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/swagger-ui/index.html",
+    "main.1a57c2aa.css.map": "/swagger-ui/static/css/main.1a57c2aa.css.map",
+    "main.6d10d1be.js.map": "/swagger-ui/static/js/main.6d10d1be.js.map",
+    "787.33803852.chunk.js.map": "/swagger-ui/static/js/787.33803852.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a57c2aa.css",
+    "static/js/main.6d10d1be.js"
+  ]
+}
